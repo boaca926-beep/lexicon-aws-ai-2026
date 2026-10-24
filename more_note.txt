@@ -1,0 +1,11 @@
+1. AWS IAM Identity Center
+https://lexicon.awsapps.com/start 
+
+2. AWS documents
+https://docs.aws.amazon.com/
+
+3. Drawing tool
+https://draw.io
+
+4. Sammafattning
+https://devtomas22.github.io/awscourse/
