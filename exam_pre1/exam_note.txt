@@ -1,0 +1,30 @@
+Category 1: Cloud Concepts (CC)
+
+Q20_CC:
+(right) Infrastructure as a Service (IaaS): IaaS provides control over operating systems, storage, and deployed applications. Virtualization and the main network are still managed by the provider.
+
+Software as a Service (SaaS): SaaS users only control application configurations.
+
+Q48_CC:
+(right) You can migrate all services immediately and discard existing infrastructure to recover investment and increase ROI.
+
+Rationale: Migrating all services instantly and discarding existing infrastructure is not a recommended migration strategy. AWS typically recommends incremental migration strategies (such as rehost, replatform, or hybrid approaches) that allow organizations to continue using existing on-premises resources during the transition.
+
+(selected) AWS offers hybrid solutions that allow you to integrate on-premises and cloud resources.
+
+Rationale: This is a good argument and it helps defending the idea of moving to the cloud.
+
+Category 2: Security and Compliance (SC)
+
+Category 3: Cloud Technology and Services (CTS)
+
+Q3_CTS: 
+(right) AWS Identify Center. This lets you manage single sign-on (SSO) access to AWS accounts and external applications from a single location, making it easier to manage workforce identities.
+
+(selected) IAM: IAM manages users and permissions within a single AWS account but does not provide centralized SSO across accounts.
+
+
+
+
+
+
