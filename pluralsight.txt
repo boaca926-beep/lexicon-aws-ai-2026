@@ -21,3 +21,6 @@ https://app.pluralsight.com/ilx/aws-identity-and-access-management-fundamentals/
 
 E2 lab
 https://www.pluralsight.com/labs/aws/create-and-connect-to-an-ec2-instance
+
+Oct 26
+https://app.pluralsight.com/ilx/aws-certified-cloud-practitioner-(clf-c02)-storage-networking-and-databases/66a7e2cb-85b5-4c7b-a91e-4f45d7ec1919/b3c130df-4406-4337-b692-58a756f0e5c2
