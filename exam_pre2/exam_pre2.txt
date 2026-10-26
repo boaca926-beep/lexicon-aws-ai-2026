@@ -1,0 +1,30 @@
+Q1: D. Paying only for compute time actually consumed.
+
+Q2: D. AWS Web Application Firewall (WAF)
+
+Q3: A. Amazon GuardDuty
+
+Q4: B. CloudFront
+
+Q5: C. AWS Config ?
+
+Q6: C. Amazon SageMaker for ML workflows
+
+Q7: B. Global infrastructure with multiple geographic Regions
+
+Q8: A. Amazon RDS
+
+Q9: c. Hybrid cloud
+
+Q10: ?
+
+Q11: D. AWS Lambda
+
+Q12: C. AWS Config
+
+Q13: D. Configuring IAM roles and policies
+
+Q14: B. AWS Config
+
+Q15: A. Variable costs based on actual resource consumption
+     D. Elimination of capacity planning for peak loads
