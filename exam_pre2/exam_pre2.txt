@@ -28,3 +28,28 @@ Q14: B. AWS Config
 
 Q15: A. Variable costs based on actual resource consumption
      D. Elimination of capacity planning for peak loads
+     
+Q16: A. On-Demand
+
+Q17: C. AWS Config
+
+Q18: D. AWS Audit Manager
+
+Q19. B. Amazon GuardDuty
+
+Q20. D. Tursted Advisor
+
+Q21. D. Pay-as-you-go pricing
+
+Q22. B. AWS Shield for network attack prevention
+
+Q23. D. Consolidated billing
+
+Q24. A. Signle VPC with multiple security groups
+
+Q25. C. Providing data durability and availability features.
+     E. Encrypting sensitive data before uploading.
+     
+Q26. C. Reduced cost for predictable workloads.
+
+Q27. C. Amazon EKS.
