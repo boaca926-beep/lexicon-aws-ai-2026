@@ -53,3 +53,41 @@ Q25. C. Providing data durability and availability features.
 Q26. C. Reduced cost for predictable workloads.
 
 Q27. C. Amazon EKS.
+
+Q28. D. AWS CloudFront
+
+Q29. A. Mandatory adoption of all AWS service offering
+     B. Enhanced physical security through cloud adoption
+   
+Q30. C. AWS cost and Usage Report
+
+Q31. D. AWS Cloud Map for service registry
+
+Q32. C. Sustainability pillar for environmental efficiency
+
+Q33. C. Amazon ECS on EC2 instances
+
+Q34. A. Granting temporary access to AWS services or resources
+
+Q35. C. Cloud providers lower per-unit costs as they scale
+
+Q36. A. Infrastructure as code using AWS CloudFormation
+
+Q37. C. Amazon S3 Glacier Deep Archive
+
+Q38. D. The customer
+
+Q39. C. Amazon Simple Notification Service (Amazon SNS)
+
+Q40. D. Amazon CloudFront
+
+Q41. A. AWS Marketplace
+
+Q42. B. The ability ot increase or decrease resources as needed
+
+Q43. B. Amazon Simple Queue Service (SQS)
+
+Q44. A. Compute optimized
+
+Q45. C. It allows exploration of AWS services at no cost up to specific usage limits
+
