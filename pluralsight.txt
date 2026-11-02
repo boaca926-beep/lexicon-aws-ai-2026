@@ -33,4 +33,19 @@ AWS Database Fundamentals
 https://app.pluralsight.com/ilx/video-courses/aws-database-fundamentals/course-overview
 
 AWS Certified Cloud Practitioner (CLF-C02): Storage, Networking, and Databases
-https://app.pluralsight.com/ilx/aws-certified-cloud-practitioner-(clf-c02)-storage-networking-and-databases/course-overview
+Storage Technology and Services
+https://app.pluralsight.com/ilx/aws-certified-cloud-practitioner-(clf-c02)-storage-networking-and-databases/66a7e2cb-85b5-4c7b-a91e-4f45d7ec1919/b3c130df-4406-4337-b692-58a756f0e5c2
+
+Database Technology and Services
+https://app.pluralsight.com/ilx/aws-certified-cloud-practitioner-(clf-c02)-storage-networking-and-databases/71e0cbfd-233a-4028-81ff-fdabe671a04e/1758a45e-5e38-431b-bee8-e4851a2d5148
+
+Oct 29
+AWS Certified Cloud Practitioner (CLF-C02): Storage, Networking, and Databases
+Content Delivery and Networking Technology and Services
+https://app.pluralsight.com/ilx/aws-certified-cloud-practitioner-(clf-c02)-storage-networking-and-databases/de9f6309-335b-47d2-a950-1b7e1d0858be/68be0434-ec48-48c2-8ffd-7b059a5cfc93
+
+Oct 30
+Introduction to Amazon CloudFront
+https://app.pluralsight.com/ilx/video-courses/introduction-amazon-cloudfront/course-overview
+
+
