@@ -1,0 +1,48 @@
+q1: 
+	selected: A. AWS Developer Support
+	
+q2:
+	selected: D. AWS Shield
+	
+q3:
+	selected: C. IAM permission boundaries
+
+q4: 
+	selected: A. ElasticCache
+	
+
+q5:
+	selected: B. AWS Audit Logs
+	
+q6:
+	selected: C. AWS Lambda for event-driven functions
+		  D. AWS Fargate for containerized applications
+
+q7:
+	selected: B. Amazon S3 for object events
+		  D. Amazon DynamoDB Streams for changes
+	
+q8:
+	selected: D. AWS KMS
+	
+q9:
+	selected: A. Amazon Simple Notification Service (Amazon SNS)
+	
+q10:
+	selected: C. Edge locations for content caching
+	
+q11:
+	selected: D. Reserved Instances
+	
+q12:
+	selected: D. Software as a Service (SaaS)
+	
+q13:
+	selected: C. AWS Config
+	
+q14:
+	selected: B. Amazon RDS Multi-AZ deployment option
+	
+q15:
+	selected: B. AWS CloudTrail
+

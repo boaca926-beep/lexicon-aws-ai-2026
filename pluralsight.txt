@@ -48,4 +48,13 @@ Oct 30
 Introduction to Amazon CloudFront
 https://app.pluralsight.com/ilx/video-courses/introduction-amazon-cloudfront/course-overview
 
+Nov2 
+Basic Navigation and Deployment Patterns for AWS
+https://app.pluralsight.com/ilx/video-courses/aws-basic-navigation-deployment-patterns/course-overview
+
+AWS Certified Cloud Practitioner (CLF-C02): Deployment, Migration, and AI
+Development, Messaging, and Deployment Technology and Service
+up to section: Demo: Working with AWS CloudShell and the AWS Command Line Interface (AWS CLI)
+
+
 
