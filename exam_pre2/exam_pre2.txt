@@ -114,8 +114,14 @@ Q24_CTS:
      Correct
      D. Multiple VPCs with distinct CIDR blocks
 
-Q25. C. Providing data durability and availability features.
+Q25_SC:
+     Selected:
+     C. Providing data durability and availability features.
      E. Encrypting sensitive data before uploading.
+     
+     Correct:
+     C.
+     D. Managing infrastructure hardware and facilities
      
 Q26. C. Reduced cost for predictable workloads.
 
@@ -238,8 +244,13 @@ Q57. B. Elastic Load Balancing
 
 Q58. D. AWS IAM Identity Center
 
-Q59. A. AWS Trusted Advisor
+Q59_SC: 
+     Selected:
+     A. AWS Trusted Advisor
 
+     Correct:
+     D. AWS Artifact
+     
 Q60_cc. 
      Selected:
      B. Eliminating all costs through cloud migration
