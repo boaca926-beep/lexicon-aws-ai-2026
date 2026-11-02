@@ -2,33 +2,17 @@ Q1: D. Paying only for compute time actually consumed.
 
 Q2: D. AWS Web Application Firewall (WAF)
 
-Q3_SC:
-    Selected:
-    A. Amazon GuardDuty
+Q3: A. Amazon GuardDuty
 
-    Correct:
-    B. VPC security groups
-    
-    
 Q4: B. CloudFront
 
-Q5_SC: 
-    Selected:
-    C. AWS Config ?
+Q5: C. AWS Config ?
 
-    Correct:
-    A. IAM Access Analyzer
-    
 Q6: C. Amazon SageMaker for ML workflows
 
 Q7: B. Global infrastructure with multiple geographic Regions
 
-Q8_CTS.
-    Selected:
-    A. Amazon RDS
-    
-    Correct:
-    B. Amazon Athena
+Q8: A. Amazon RDS
 
 Q9: C. Hybrid cloud
 
@@ -36,83 +20,32 @@ Q10: B. AWS Trusted Advisor ?
 
 Q11: D. AWS Lambda
 
-Q12_SC:
-     Selected:
-     C. AWS Config
+Q12: C. AWS Config
 
-     Correct:
-     D. AWS Artifact
-     
 Q13: D. Configuring IAM roles and policies
 
-Q14_SC:
-     Selected:
-     B. AWS Config
+Q14: B. AWS Config
 
-     Correct:
-     A. AWS CloudTrial
-     
 Q15: A. Variable costs based on actual resource consumption
      E. Elimination of capacity planning for peak loads
      
-Q16_bps: 
-     Selected:
-     A. On-Demand
-     
-     Correct:
-     D. Saving Plans
+Q16: A. On-Demand
 
-Q17_SC:
-     Selected:
-     C. AWS Config
+Q17: C. AWS Config
 
-     Correct:
-     A: VPC Flow Logs
-     
-Q18_SC:
-     Selected:
-     D. AWS Audit Manager
+Q18: D. AWS Audit Manager
 
-     Correct:
-     B. AWS Security Hub
-     D.
-     
-Q19_SC:
-    Selected:
-    B. Amazon GuardDuty
+Q19. B. Amazon GuardDuty
 
-    Correct:
-    C. AWS WAF
-    
-Q20_bps: 
-     Selected:
-     D. Trusted Advisor
-     
-     Correct:
-     B. Cost Explorer
+Q20. D. Tursted Advisor
 
 Q21. D. Pay-as-you-go pricing
 
-Q22_SC: 
-    Selected:
-    B. AWS Shield for network attack prevention
+Q22. B. AWS Shield for network attack prevention
 
-    Correct:
-    D. Amazon Inspector for automated security assessments
-    
-Q23_bps: 
-     Selected:
-     D. Consolidated billing
+Q23. D. Consolidated billing
 
-     Correct:
-     B. Cost allocation tags
-     
-Q24_CTS:
-     Selected:
-     A. Single VPC with multiple security groups
-     
-     Correct
-     D. Multiple VPCs with distinct CIDR blocks
+Q24. A. Single VPC with multiple security groups
 
 Q25. C. Providing data durability and availability features.
      E. Encrypting sensitive data before uploading.
@@ -121,97 +54,50 @@ Q26. C. Reduced cost for predictable workloads.
 
 Q27. C. Amazon EKS.
 
-Q28_CTS:
-     Selected:
-     D. AWS CloudFront
-     
-     Correct:
-     B. Amazon Route 53
+Q28. D. AWS CloudFront
 
-Q29_cc
-     Selected:
-     A. Mandatory adoption of all AWS service offering
+Q29. A. Mandatory adoption of all AWS service offering
      B. Enhanced physical security through cloud adoption
-     
-     Correct:
-     C. Reduced business risk through improved agility
-     E. Increased operational efficiency via automation
-     
    
-Q30_bps:
-     Selected:
-     C. AWS cost and Usage Report
-     
-     Correct:
-     B. AWS Pricing Calculator
+Q30. C. AWS cost and Usage Report
 
 Q31. D. AWS Cloud Map for service registry
 
 Q32. C. Sustainability pillar for environmental efficiency
 
-Q33_bps:
-     Selected:
-     C. Amazon ECS on EC2 instances
-     
-     Correct:
-     B. AWS Fargate for serverless containers
+Q33. C. Amazon ECS on EC2 instances
 
 Q34. A. Granting temporary access to AWS services or resources
 
 Q35. C. Cloud providers lower per-unit costs as they scale
 
-Q36_bps:
-     Selected:
-     B. Infrastructure as code using AWS CloudFormation
+Q36. B. Infrastructure as code using AWS CloudFormation
 
-     Correct:
-     C. AWS Elastic Beanstalk
-     
 Q37. C. Amazon S3 Glacier Deep Archive
 
 Q38. D. The customer
 
 Q39. C. Amazon Simple Notification Service (Amazon SNS)
 
-Q40_bps:
-     Selected:
-     D. Amazon CloudFront
+Q40. D. Amazon CloudFront
 
-     Correct:
-     B. ElastiCache
-     
 Q41. A. AWS Marketplace
 
 Q42. B. The ability to increase or decrease resources as needed
 
-Q43_bps:
-     Selected:
-     B. Amazon Simple Queue Service (SQS)
+Q43. B. Amazon Simple Queue Service (SQS)
 
-     Correct:
-     A. AWS IoT Core
-     
 Q44. A. Compute optimized
 
 Q45. C. It allows exploration of AWS services at no cost up to specific usage limits
 
-Q46_bps:
-     Selected:
-     B. AWS Cost Explorer
-     
-     Correct:
-     A. AWS Budgets
+Q46. B. AWS Cost Explorer
 
 Q47. D. Amazon GuardDuty
 
 Q48. A. Agility
 
-Q49_bps:
-     Select:
-     A. Amazon S3 Transfer Acceleration
-     
-     Correct:
-     B. AWS CloudFront
+Q49. A. Amazon S3 Transfer Acceleration
 
 Q50. D. Managing database user access and permissions
 
@@ -225,13 +111,8 @@ Q53. D. To control inbound and outbound traffic at the subnet level
 
 Q54. D. AWS Direct Connect for dedicated bandwidth
 
-Q55.
-     Selected:
-     C. AWS Developer Support
+Q55. C. AWS Developer Support
 
-     Correct:
-     B. AWS Business Support
-     
 Q56. B. AWS CloudHSM
 
 Q57. B. Elastic Load Balancing
@@ -240,24 +121,14 @@ Q58. D. AWS IAM Identity Center
 
 Q59. A. AWS Trusted Advisor
 
-Q60_cc. 
-     Selected:
-     B. Eliminating all costs through cloud migration
+Q60. B. Eliminating all costs through cloud migration
 
-     Correct:
-     A. Transforming fixed costs into variable costs
-     
 Q61. D. On-demand pricing for seasonal traffic spikes
 
 Q62. B. Controlling which users can do what actions in AWS
 
 Q63. A. Multicloud
 
-Q64:
-     Selected:
-     C. Amazon Elastic File System (EFS)
+Q64. C. Amazon Elastic File System (EFS)
 
-     Correct:
-     D. Amazon FSx
-     
 Q65. B. Self-service on-demand
