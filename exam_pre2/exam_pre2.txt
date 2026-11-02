@@ -272,11 +272,3 @@ Q64:
      D. Amazon FSx
      
 Q65. B. Self-service on-demand
-
-<<<<<<< HEAD
-update
-updated
-updateded
-=======
-
->>>>>>> 72ca2df (all changes)
