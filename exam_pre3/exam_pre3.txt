@@ -94,3 +94,5 @@ q29:
 
 q30.
 	selected: A. Pricing Calculator
+	
+	Jag har ett läkarbesök den 10 november kl. 10.50, och det tar cirka två timmar. Jag räknar med att vara borta i två timmar.
