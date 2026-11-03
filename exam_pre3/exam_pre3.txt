@@ -45,4 +45,52 @@ q14:
 	
 q15:
 	selected: B. AWS CloudTrail
+	
+q16:
+	selected: D. Saving Plans
+	
+q17:
+	selected: A. VPC Flow Logs
+	
+q18:
+	selected: B. AWS Security Hub
+		  D. AWS Audit Mangager
+		  
+q19:
+	selected: C. AWS WAF
 
+q20:
+	selected: B. Cost Explorer
+
+q21:
+	selected: D. Pay-as-you-go pricing
+	
+
+q22: 
+	selected: D. Amazon Inspector for automated security assessments
+	
+q23:
+	selected: B. Cost allocation tags
+
+q24:
+	selected: A. Single VPC with multiple security groups
+
+q25:
+	selected: C. Providing data durability and availability features
+	  	  D. Managing infrastructure hardware and facilities
+	  	  
+q26:
+	selected: C. Reduced cost for predictable workloads
+	
+q27:
+	selected: C. Amazon EKS
+	
+q28:
+	selected: B. Amazon Route 53
+
+q29:
+	selected: B. Enhanced physical security through cloud adoption
+	          C. Reduced business risk through improved agility
+
+q30.
+	selected: A. Pricing Calculator
