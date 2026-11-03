@@ -12,3 +12,26 @@ https://devtomas22.github.io/awscourse/
 
 5. sandbox
 
+AWS CloudShell
+# returns details about the IAM user or role whose credentials are being used to make the request.
+$ aws sts get-caller-identity
+
+# pretty-prints
+$ aws sts get-caller-identity | jq -r .Account
+
+$ aws sts get-caller-identity
+
+$ aws configure list
+
+$ aws ec2 describe-regions
+
+$ aws s3 ls
+
+$ aws ec2 describe-availability-zones
+
+$ aws ec2 describe-vpcs
+
+$ aws lambda list-functions \ 
+	--query 'Functions[].{Name:FunctionName,Runtime:Runtime}' \ 
+	--output table
+
