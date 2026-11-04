@@ -96,3 +96,62 @@ q30.
 	selected: A. Pricing Calculator
 	
 	Jag har ett läkarbesök den 10 november kl. 10.50, och det tar cirka två timmar. Jag räknar med att vara borta i två timmar.
+	
+q31.
+	selected: C. To improve performance for global users by routing traffic through the AWS global network
+	
+q32.
+	selected: C. AWS CloudFromation
+
+q33.
+	selected: C. The ability to experiment quickly with minimal investment
+	
+q34.
+	selected: B. Annotating documentation with configuration details
+	          E. Performing operations using code whenever possible
+	          
+q35.
+	selected: B. Responsibility is shared between AWS and customer.
+
+q36.
+	selected: C. Create IAM roles with temporary security credentials.
+	
+q37.
+	selected: D. AWS Key Management Service (KMS)
+	
+Q38.
+	selected: B. AWS Secrets Manager
+	          D. AWS Key Management Service (KMS)
+	          
+Q39.
+	selected: B. Amazon WorkSpaces
+
+Q40.
+	selected: C. Convertible Reserved Instances
+	
+Q41.
+	selected: B. To allow secure access to resources in one AWS account from another one
+	
+Q42.
+	selected: B. Systems Manager Patch Manager
+	
+Q43.
+	selected: A: AWS Transit Gateway for VPC connectivity
+		  E: Amazon Route 53 for DNS resolution
+		  
+Q44.
+	selected: D: Amazon Patch Installer
+	
+Q45.
+	selected: A: Amazon S3
+	          C: Amazon DynamoDB
+	          
+Q46.
+	selected: A. Virtual MFA application on mobile devices
+	          C. Security questions for account recovery
+	          
+Q47.
+	selected: B. Enabling multi-factor authentication (MFA) for the root user
+
+Q48. 
+	selected: C. Table-level encryption at rest using AWS managed keys
