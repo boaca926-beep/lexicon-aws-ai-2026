@@ -52,6 +52,13 @@ Nov2
 Basic Navigation and Deployment Patterns for AWS
 https://app.pluralsight.com/ilx/video-courses/aws-basic-navigation-deployment-patterns/course-overview
 
+Nov3
+Asynchronous Messaging in AWS
+https://app.pluralsight.com/ilx/video-courses/aws-asynchronous-messaging/course-overview
+
+AWS Monitoring Fundamentals
+https://app.pluralsight.com/ilx/video-courses/aws-monitoring-fundamentals/course-overview
+
 AWS Certified Cloud Practitioner (CLF-C02): Deployment, Migration, and AI
 Development, Messaging, and Deployment Technology and Service
 up to section: Demo: Working with AWS CloudShell and the AWS Command Line Interface (AWS CLI)

@@ -12,6 +12,9 @@ https://devtomas22.github.io/awscourse/
 
 5. sandbox
 
+6. sharedpoint
+https://utbaf.sharepoint.com/sites/AWSCloudochAI2026
+
 AWS CloudShell
 # returns details about the IAM user or role whose credentials are being used to make the request.
 $ aws sts get-caller-identity
