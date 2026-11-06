@@ -1,0 +1,22 @@
+AWSTemplateFormatVersion: '2010-09-09'
+Description: 'Lexicon AWS & AI - labb med en S3-bucket och en SQS-ko'
+
+Parameters:
+  StudentId:
+    Type: String
+    Description: 'Ange ditt unika id, till exempel test01 eller elev17.'
+    MinLength: 2
+    MaxLength: 32
+    AllowedPattern: '^[a-z0-9]+(-[a-z0-9]+)*$'
+    ConstraintDescription: 'Anvand enbart sma bokstaver, siffror och bindestreck.'
+
+Resources:
+  StudentBucket:
+    Type: AWS::S3::Bucket
+    Properties:
+      BucketName: !Sub 'lexicon-student-${StudentId}-${AWS::AccountId}-${AWS::Region}'
+
+  StudentQueue:
+    Type: AWS::SQS::Queue
+    Properties:
+      QueueName: !Sub 'lexicon-student-${StudentId}-queue'
