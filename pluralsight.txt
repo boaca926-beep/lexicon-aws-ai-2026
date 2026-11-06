@@ -48,11 +48,11 @@ Oct 30
 Introduction to Amazon CloudFront
 https://app.pluralsight.com/ilx/video-courses/introduction-amazon-cloudfront/course-overview
 
-Nov2 
+Nov 2 
 Basic Navigation and Deployment Patterns for AWS
 https://app.pluralsight.com/ilx/video-courses/aws-basic-navigation-deployment-patterns/course-overview
 
-Nov3
+Nov 3
 Asynchronous Messaging in AWS
 https://app.pluralsight.com/ilx/video-courses/aws-asynchronous-messaging/course-overview
 
@@ -64,4 +64,30 @@ Development, Messaging, and Deployment Technology and Service
 up to section: Demo: Working with AWS CloudShell and the AWS Command Line Interface (AWS CLI)
 
 
+Nov 4
+AWS Certified Cloud Practitioner (CLF-C02): Deployment, Migration, and AI
+https://app.pluralsight.com/ilx/aws-certified-cloud-practitioner-(clf-c02)-deployment-migration-and-ai/course-overview
+1. Introduce Amazon EventBridge
+2. Understanding Step Functions
+
+https://app.pluralsight.com/ilx/video-courses/aws-data-pipelines-orchestrating-automating/course-overview
+Se fram till Demo: Parallel and Map Patterns
+
+Nov 6
+AWS Certified Cloud Practitioner (CLF-C02): Deployment, Migration, and AI
+https://app.pluralsight.com/ilx/aws-certified-cloud-practitioner-(clf-c02)-deployment-migration-and-ai/course-overview
+1. Redshift (Severless): Data Warehouse, OLAP: Online Analytical Processing
+2. Kinesis: collect, process and analyze streaming data in real time
+3. Kinesis Firhose: capture, transform and load data streams into AWS data stores.
+4. Athena: querying data in S3
+5. Glue (Severless): data preparation, perform ETL
+6. QuickSight: SaaS-model business analytics service
+7. SageMaker: collect and prepare data, build your model, train your model, test and evaluate, tune your model, deploy your model
+8. Polly: deep-learning, text to sounding speech, neural text-to-speech
+9. Comprehend: Natural Language Processing (NLP) to process text, discover insights, meaning.
+10. Textract/Transcribe/Translate: textract for extraction from pdf, images etc. Transcribe convert speech to text. Translate, accurate natural sounding
+11. Rekognition: image and video analysis
+
+AWS Machine Learning and Artificial Intelligence Fundamentals
+https://app.pluralsight.com/ilx/video-courses/aws-ml-ai-introduction/course-overview
 

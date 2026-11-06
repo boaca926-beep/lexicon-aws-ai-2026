@@ -155,3 +155,56 @@ Q47.
 
 Q48. 
 	selected: C. Table-level encryption at rest using AWS managed keys
+	
+Q49.
+	selected: C. AWS CloudTrail
+	
+Q50.
+	selected: C. Pay-as-you-go pricing model with elastic scalability
+	
+Q51.
+	selected: D. Compute Saving Plans
+	
+Q52.?
+	selected: A. Users can provision resources without needing human assistance
+	
+Q53.
+	selected: A. Improved application uptime during failure or disruptions
+	
+Q54.
+	selected: C. AWS Cloud Adpoption Framework for migration planning
+	
+Q55.
+	selected: D. Amazon DynamoDB with point-in-time recovery
+	   	  E. Amazon S3 for object storage
+	   	  
+Q56.
+	selected: C. IAM Roles with temporal credentials
+	
+Q57.
+	selected: D. Outbound transfer to the internet
+		  E. Transfer between different AWS Regions
+		  
+Q58.
+	selected: B. Kinesis
+	
+Q59.
+	selected: C. Use an Avilability Zone with backup storage
+
+Q60.
+	selected: D. AWS Firewall Manager
+	
+Q61.
+	selected: A. Limited migration options for legacy systems
+
+Q62.
+	selected: C. Availability Zone
+
+Q63.
+	selected: A. Basic
+
+Q64.
+	selected: C. Amazon Inspector
+
+Q65.
+	selected:
