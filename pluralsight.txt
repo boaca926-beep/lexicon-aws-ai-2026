@@ -63,5 +63,8 @@ AWS Certified Cloud Practitioner (CLF-C02): Deployment, Migration, and AI
 Development, Messaging, and Deployment Technology and Service
 up to section: Demo: Working with AWS CloudShell and the AWS Command Line Interface (AWS CLI)
 
+Nov 5
+https://app.pluralsight.com/id?redirectTo=%2filx%2faws-certified-cloud-practitioner-(clf-c02)-deployment-migration-and-ai%2fece7054f-9e1e-4ada-b1df-280626815844%2fad0aef4b-4373-436d-8033-02562bc3ea11
+
 
 
