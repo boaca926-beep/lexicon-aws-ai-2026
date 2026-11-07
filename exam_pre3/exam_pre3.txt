@@ -207,4 +207,4 @@ Q64.
 	selected: C. Amazon Inspector
 
 Q65.
-	selected:
+	selected: A. AWS Firewall Manager
