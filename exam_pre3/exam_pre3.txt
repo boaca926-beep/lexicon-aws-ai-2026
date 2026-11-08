@@ -10,7 +10,6 @@ q3:
 q4: 
 	selected: A. ElasticCache
 	
-
 q5:
 	selected: B. AWS Audit Logs
 	
@@ -47,56 +46,53 @@ q15:
 	selected: B. AWS CloudTrail
 	
 q16:
-	selected: D. Saving Plans
+	selected: A. Amazon Kinesis Data Analytics for streaming
 	
 q17:
-	selected: A. VPC Flow Logs
+	selected: C. To reduce capital expenses and increase flexibility 
 	
 q18:
-	selected: B. AWS Security Hub
-		  D. AWS Audit Mangager
+	selected: C. Availability Zone Management
 		  
 q19:
-	selected: C. AWS WAF
+	selected: A. AWS Glue for Extract. Transform. Load (ETL) transformations
+		  E. Amazon Kinesis Data Firehose for delivery
 
 q20:
-	selected: B. Cost Explorer
+	selected: A. AWS Key Management Service (KMS)
+		  C. AWS Secrets Manager
 
 q21:
-	selected: D. Pay-as-you-go pricing
+	selected: D. AWS Identity Center
 	
-
 q22: 
-	selected: D. Amazon Inspector for automated security assessments
+	selected: C. Amazon DynamoDB
 	
 q23:
 	selected: B. Cost allocation tags
 
 q24:
-	selected: A. Single VPC with multiple security groups
+	selected: B. You can migrate all services immediately and discard existing infrastructure to recover investment and increase ROI.
 
 q25:
-	selected: C. Providing data durability and availability features
-	  	  D. Managing infrastructure hardware and facilities
-	  	  
+	selected: D. On-Demand
+	
 q26:
-	selected: C. Reduced cost for predictable workloads
+	selected: A. Improved environmental sustainability through efficient infrastructure
 	
 q27:
-	selected: C. Amazon EKS
+	selected: A. AWS CloudFront
 	
 q28:
-	selected: B. Amazon Route 53
+	selected: A. AWS Cost Explorer
+		  D. AWS Trusted Advisor
 
 q29:
-	selected: B. Enhanced physical security through cloud adoption
-	          C. Reduced business risk through improved agility
+	selected: C. Implement defense in depth across multiple layers
 
 q30.
-	selected: A. Pricing Calculator
-	
-	Jag har ett läkarbesök den 10 november kl. 10.50, och det tar cirka två timmar. Jag räknar med att vara borta i två timmar.
-	
+	selected: D. Amazon EFS
+
 q31.
 	selected: C. To improve performance for global users by routing traffic through the AWS global network
 	
@@ -117,7 +113,7 @@ q36.
 	selected: C. Create IAM roles with temporary security credentials.
 	
 q37.
-	selected: D. AWS Key Management Service (KMS)
+	selected: D. Grant only permissions required for their specific tasks.
 	
 Q38.
 	selected: B. AWS Secrets Manager
@@ -172,7 +168,7 @@ Q53.
 	selected: A. Improved application uptime during failure or disruptions
 	
 Q54.
-	selected: C. AWS Cloud Adpoption Framework for migration planning
+	selected: C. AWS Cloud Adpotion Framework for migration planning
 	
 Q55.
 	selected: D. Amazon DynamoDB with point-in-time recovery
@@ -208,3 +204,6 @@ Q64.
 
 Q65.
 	selected: A. AWS Firewall Manager
+	
+	
+		Jag har ett läkarbesök den 10 november kl. 10.50, och det tar cirka två timmar. Jag räknar med att vara borta i två timmar.
