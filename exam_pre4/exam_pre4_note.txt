@@ -1,0 +1,61 @@
+1. selected: B. AWS IoT Core
+
+2. selected: A. Avoiding upfront capital expenses (CapEx) on hardware
+
+3. selected: C. Amazon Inspector (potential treats)
+
+4. selected: D. Cost allocation tags (by department)
+
+5. selected: D. Variable costs based on actual resource comsumption
+	     E. Elimination of capacity planning for peak loads
+	    
+6. selected: AWS CloudTrail
+
+7. selected: Amazon SageMaker for ML workflows
+
+8. selected: AWS Web Application Firewall (WAF)
+
+9. selected: B. AWS Budgets
+
+10 *. selected: B. Amazon GuardDuty
+
+11. selected: D. Pricing Calculator
+
+12. selected: D. The availability of the data centers is the responsibility of AWS, whereas the correct deployment across multiple AZs or Regions is the customer's responsibility.
+
+13. selected: D. VPC Flow Logs
+
+14. selected: A. AWS IAM identity Center
+
+15. selected: B. AWS Global Accelerator
+
+16 *. selected: B. AWS Business Support (1 hr business; architectural guidance, business?)
+
+17. selected: D. Amazon FSx. (Windows)
+
+18. selected: D. Paying only for compute time actually consumed. (massive compute power for short periods)
+
+19. selected: B. AWS Audit Manager (compliance with security)
+
+20. selected: A. IAM Access Analyzer
+
+21. selected: A. To control inbound and outbound traffic at the subnet level.
+
+22. selected: D. Agility
+
+23. selected: E. Transforming fixed costs into variable costs
+
+24. selected: B. Use AWS Secrets Manager for automated rotation.
+
+25. selected: C. Amazon FSx for managed file systems
+	      E. Amazon EFS for shared file storage
+	      
+26. selected: B. Elastic Load Balancing.
+
+27. selected: D. AWS Cloud Map for service registry.
+
+28. selected: D. AWS Lambda
+
+29. selected: B. On-demand pricing for seasonal traffic spikes
+
+30. selected: B. AWS Marketplace
