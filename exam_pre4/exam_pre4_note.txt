@@ -91,3 +91,43 @@
 
 45. selected: B. Reduced business risk through improved agility
 	      D. Enhanced physical security through cloud adoption
+	      
+46. selected: C. AWS CloudHSM
+
+47. selected: C. Amazon Fargate
+
+48. selected: D. AWS Fargate for serverless containers
+
+49. selected: B. Reduced cost for predictable workloads
+
+50. selected: B. Managing database user access and permissions
+
+51. selected: A. Sustainability pillar for environmental efficiency
+
+52. selected: D. Single VPC with multiple security groups
+
+53. selected: D. Amazon D3 Glacier Deep Archive
+
+54. selected: B. Managing encryption to securely access AWS resources
+
+55. selected: D. Global infrastructure with multiple geographic Regions
+
+56. selected: D. Granting temporary access to AWS services or resources
+
+57. selected: D. Amazon GuardDuty
+
+58. selected: D. It allows exploration of AWS services at no cost up to specific usage limits.
+
+59. selected: C. Multicloud
+
+60. selected: C. Hybrid Cloud
+
+61. selected: B. Self-service on-demand
+
+62. selected: A. Cloud provides lower per-unit costs as they scale.
+
+63. selected: B. AWS CloudTrail
+
+64. selected: B. AWS Pricing Calculator
+
+65. selected: D. AWS Shield
