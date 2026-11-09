@@ -91,3 +91,11 @@ https://app.pluralsight.com/ilx/aws-certified-cloud-practitioner-(clf-c02)-deplo
 AWS Machine Learning and Artificial Intelligence Fundamentals
 https://app.pluralsight.com/ilx/video-courses/aws-ml-ai-introduction/course-overview
 
+Nov 7
+AWS Monitoring Fundamentals
+https://app.pluralsight.com/ilx/video-courses/aws-monitoring-fundamentals/course-overview
+
+
+https://app.pluralsight.com/ilx/aws-certified-cloud-practitioner-(clf-c02)-monitoring-security-and-pricing/course-overview
+3. Pricing, Billing, and Support
+
