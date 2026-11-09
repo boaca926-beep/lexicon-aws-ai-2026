@@ -9,11 +9,11 @@
 5. selected: D. Variable costs based on actual resource comsumption
 	     E. Elimination of capacity planning for peak loads
 	    
-6. selected: AWS CloudTrail
+6. selected: C. AWS CloudTrail
 
-7. selected: Amazon SageMaker for ML workflows
+7. selected: B. Amazon SageMaker for ML workflows
 
-8. selected: AWS Web Application Firewall (WAF)
+8. selected: A. AWS Web Application Firewall (WAF)
 
 9. selected: B. AWS Budgets
 
