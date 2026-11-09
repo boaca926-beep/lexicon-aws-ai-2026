@@ -59,3 +59,35 @@
 29. selected: B. On-demand pricing for seasonal traffic spikes
 
 30. selected: B. AWS Marketplace
+
+31. selected: D. Amazon Inspector for automated security assessments
+
+32. selected: D. Amazon CloudFront
+
+33. selected: C. AWS Elastic Beanstalk
+
+34. selected: C. Moving workloads to another Region
+
+35. selected: D. Saving Plans
+
+36. selected: A. AWS Direct Connect for dedicated bandwidth
+
+37. selected: D. Amazon Athena
+
+38. * selected: B. Route 53
+
+39. selected: D. Route 53
+
+40. selected: A. Amazon Simple Notification Service (Amazon SNS)
+
+41. selected: D. The customer
+
+42. selected: D. Providing data durability and availability features
+	      E. Managing infrastructure hardware and facilities
+	      
+43. selected: D. Managing Availability Zones
+
+44. selected: B. Compute optimized
+
+45. selected: B. Reduced business risk through improved agility
+	      D. Enhanced physical security through cloud adoption

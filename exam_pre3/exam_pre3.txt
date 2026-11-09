@@ -208,4 +208,4 @@ Q65.
 
 * Outposts allows you to host a physical appliance, provided by AWS, in your data center and manage it through AWS.
 
-		Jag har ett läkarbesök den 10 november kl. 10.50, och det tar cirka två timmar. Jag räknar med att vara borta i två timmar.
+		
