@@ -95,7 +95,10 @@ Nov 7
 AWS Monitoring Fundamentals
 https://app.pluralsight.com/ilx/video-courses/aws-monitoring-fundamentals/course-overview
 
-
 https://app.pluralsight.com/ilx/aws-certified-cloud-practitioner-(clf-c02)-monitoring-security-and-pricing/course-overview
 3. Pricing, Billing, and Support
+
+Nov 8
+
+Nov 9
 
