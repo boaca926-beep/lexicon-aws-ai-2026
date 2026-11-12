@@ -117,4 +117,14 @@ https://app.pluralsight.com/ilx/video-courses/aws-costs-optimizing-storage/cours
 AWS Cost Governance
 https://app.pluralsight.com/ilx/video-courses/aws-costs-governance/course-overview
 
+Nov 12
+AWS Certified Cloud Practitioner (CLF-C02): Exam Preparation
+https://app.pluralsight.com/ilx/aws-certified-cloud-practitioner-(clf-c02)-exam-preparation/course-overview
+
+AWS Certified Cloud Practitioner (CLF-C02)
+https://app.pluralsight.com/learning-paths/3c805e95-6895-4d10-a96f-fd3284665ded
+All quiz
+
+
+
 
