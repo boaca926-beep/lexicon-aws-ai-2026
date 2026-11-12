@@ -73,7 +73,7 @@ https://app.pluralsight.com/ilx/aws-certified-cloud-practitioner-(clf-c02)-deplo
 https://app.pluralsight.com/ilx/video-courses/aws-data-pipelines-orchestrating-automating/course-overview
 Se fram till Demo: Parallel and Map Patterns
 
-Nov 6
+Nov 5
 AWS Certified Cloud Practitioner (CLF-C02): Deployment, Migration, and AI
 https://app.pluralsight.com/ilx/aws-certified-cloud-practitioner-(clf-c02)-deployment-migration-and-ai/course-overview
 1. Redshift (Severless): Data Warehouse, OLAP: Online Analytical Processing
@@ -91,14 +91,30 @@ https://app.pluralsight.com/ilx/aws-certified-cloud-practitioner-(clf-c02)-deplo
 AWS Machine Learning and Artificial Intelligence Fundamentals
 https://app.pluralsight.com/ilx/video-courses/aws-ml-ai-introduction/course-overview
 
-Nov 7
+Nov 6
 AWS Monitoring Fundamentals
 https://app.pluralsight.com/ilx/video-courses/aws-monitoring-fundamentals/course-overview
 
 https://app.pluralsight.com/ilx/aws-certified-cloud-practitioner-(clf-c02)-monitoring-security-and-pricing/course-overview
 3. Pricing, Billing, and Support
 
-Nov 8
-
 Nov 9
+
+Nov 10
+AWS Security and Compliance Fundamentals
+https://app.pluralsight.com/ilx/video-courses/aws-security-compliance-fundamentals/course-overview
+
+AWS Certified Cloud Practitioner (CLF-C02): Monitoring, Security, and Pricing
+https://app.pluralsight.com/ilx/aws-certified-cloud-practitioner-(clf-c02)-monitoring-security-and-pricing/course-overview
+
+Nov 11
+Managing Compute Costs in AWS
+https://app.pluralsight.com/ilx/video-courses/aws-costs-managing-compute/course-overview
+
+Optimizing AWS Storage Costs
+https://app.pluralsight.com/ilx/video-courses/aws-costs-optimizing-storage/course-overview
+
+AWS Cost Governance
+https://app.pluralsight.com/ilx/video-courses/aws-costs-governance/course-overview
+
 
