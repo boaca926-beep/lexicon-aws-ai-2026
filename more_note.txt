@@ -37,4 +37,7 @@ $ aws ec2 describe-vpcs
 $ aws lambda list-functions \ 
 	--query 'Functions[].{Name:FunctionName,Runtime:Runtime}' \ 
 	--output table
+	
+APL cafe 14:00 every Friday
+https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzgwZmRiM2MtYzRmNy00Y2E2LThmYmMtYzc5ZmQ2MzMwNjlh%40thread.v2/0?context=%7b%22Tid%22%3a%2234e9a1f3-23e1-4ead-b2fd-41660c25cc47%22%2c%22Oid%22%3a%222bcb195c-70fa-4e95-8f56-b97e796daa78%22%7d
 
