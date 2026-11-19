@@ -2,10 +2,15 @@ Nov 16
 https://app.pluralsight.com/ilx/video-courses/aws-certified-ai-practitioner-ai-ml-fundamentals/course-overview
 Introducing Basic AI and ML Concepts
 
-
 Nov 17
 https://app.pluralsight.com/ilx/video-courses/aif-co1-generative-ai-fundamentals/course-overview
 
 Nov 18
 https://app.pluralsight.com/ilx/video-courses/aws-certified-ai-practitioner-foundation-models-application/course-overview
 Applications of Foundation Models
+
+Nov 19
+https://www.youtube.com/watch?v=zyphIEt55lE
+ A Builder's Guide: Getting Started with Generative AI with Du'An Lightfoot 
+ 
+https://github.com/labeveryday-cloud-projects/cfn-bedrock-notify
