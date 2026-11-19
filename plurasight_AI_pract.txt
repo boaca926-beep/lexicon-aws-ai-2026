@@ -3,4 +3,9 @@ https://app.pluralsight.com/ilx/video-courses/aws-certified-ai-practitioner-ai-m
 Introducing Basic AI and ML Concepts
 
 
+Nov 17
+https://app.pluralsight.com/ilx/video-courses/aif-co1-generative-ai-fundamentals/course-overview
 
+Nov 18
+https://app.pluralsight.com/ilx/video-courses/aws-certified-ai-practitioner-foundation-models-application/course-overview
+Applications of Foundation Models
