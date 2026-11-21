@@ -14,3 +14,6 @@ https://www.youtube.com/watch?v=zyphIEt55lE
  A Builder's Guide: Getting Started with Generative AI with Du'An Lightfoot 
  
 https://github.com/labeveryday-cloud-projects/cfn-bedrock-notify
+
+https://www.youtube.com/watch?v=MZKkuHbCgdQ
+ Best practices for high-performance models and GenAI applications 
