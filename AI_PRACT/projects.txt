@@ -1,0 +1,13 @@
+Deploy Machine Learning Models with AWS Lambda (Serverless) and ONNX 
+https://www.youtube.com/watch?v=sHQaeVm5hT8
+
+https://www.youtube.com/playlist?list=PL3MmuxUbc_hIhxl5Ji8t4O6lPAOpHaCLR
+all AWS related
+5.7, 9.1, 9.2, 10.8
+
+Build & Deploy ML Churn model with FastAPI, MLFlow, Docker, & AWS 
+https://www.youtube.com/watch?v=luJ64trcCwc&t=126s
+
+https://www.youtube.com/watch?v=79B8AOKkpho
+
+
