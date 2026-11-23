@@ -1,4 +1,4 @@
-1. C; 2. D; 3. A, D; 4. C; 5. D; 
+1. C; 2. D; 3. A, D; 4_?. C; 5. D; 
 
 6. A; 7. C; 8. C; 9. D; 10. A;
 
@@ -6,7 +6,7 @@
 
 16. A; 17. B; 18. C; 19. A; 20. C;
 
-21. D; 22. C; 23. C; 24. C; 25. B, D; 
+21. D; 22. C; 23. C; 24. C; 25_?. B, D; 
 
 26. A; 27. D; 28. B.E; 29. D; 30. A;
 
@@ -23,3 +23,15 @@
 56. B, E; 57. D; 58. C; 59. D; 60. D; 
 
 61. A; 62. A, D; 63. A, C; 64. D; 65. D;
+
+* Task complexity requirements and available training job hours affect 
+the required data size in Amazon Bedrock.
+
+* SageMaker Clarify feature: SHAP values computation method provides individual 
+prediction explanations.
+
+* IAM user access keys are long-term credentials that pose security risks if embedded in notebooks. SageMaker execution roles provide temporary credentials that notebooks assume, following security best practices for access controls.
+
+* Privacy-enhancing techniques; SageMaker feature supports differential privacy; SageMaker Processing jobs security features include support for privacy-enhancing techniques like differential privacy during data preparation.
+
+* SageMaker Experiments tracking and Model registry versioning help to maintain data lineage.
