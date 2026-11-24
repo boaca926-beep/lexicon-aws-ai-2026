@@ -17,3 +17,14 @@ https://github.com/labeveryday-cloud-projects/cfn-bedrock-notify
 
 https://www.youtube.com/watch?v=MZKkuHbCgdQ
  Best practices for high-performance models and GenAI applications 
+ 
+ 
+Nov 24
+https://app.pluralsight.com/ilx/video-courses/aws-certified-ai-practitioner-foundation-models-application/course-overview
+
+https://app.pluralsight.com/ilx/video-courses/best-practices-prompt-engineering/course-overview
+Prompt Engineering Best Practices
+
+https://www.youtube.com/watch?v=-Hjw0_PMyfQ
+Learn Better Prompt Engineering in 7 Minutes 
+
