@@ -28,3 +28,15 @@ Prompt Engineering Best Practices
 https://www.youtube.com/watch?v=-Hjw0_PMyfQ
 Learn Better Prompt Engineering in 7 Minutes 
 
+Nov 25
+
+https://app.pluralsight.com/ilx/video-courses/generative-ai-hallucinations-retrieval-reliability/course-overview
+Generative AI Hallucinations and Retrieval Reliability
+
+https://app.pluralsight.com/ilx/video-courses/32614840-8a98-4a0d-9412-a4565ad1433f/5f57eafd-3210-4293-a486-2416b6824876/850445b6-4343-45c5-865e-8b4219a1074d
+Evaluating Foundation Model Performance
+github included
+
+
+https://app.pluralsight.com/ilx/video-courses/1c3fe114-e4b4-4559-8907-be7225bdf1d6/38141455-7644-4b61-a62e-8cb29cd3d5e8/6b820cb0-9bdb-4971-8d09-b5445fcc28ac
+Evaluating foundation model outputs
