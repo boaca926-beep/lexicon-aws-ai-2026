@@ -40,3 +40,9 @@ github included
 
 https://app.pluralsight.com/ilx/video-courses/1c3fe114-e4b4-4559-8907-be7225bdf1d6/38141455-7644-4b61-a62e-8cb29cd3d5e8/6b820cb0-9bdb-4971-8d09-b5445fcc28ac
 Evaluating foundation model outputs
+
+Nov 26
+
+https://app.pluralsight.com/ilx/video-courses/amazon-bedrock-building-genai-applications/course-overview
+Building Generative AI Applications with Amazon Bedrock
+
