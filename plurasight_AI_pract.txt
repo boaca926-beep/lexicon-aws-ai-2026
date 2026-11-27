@@ -43,6 +43,16 @@ Evaluating foundation model outputs
 
 Nov 26
 
-https://app.pluralsight.com/ilx/video-courses/amazon-bedrock-building-genai-applications/course-overview
+!!!! https://app.pluralsight.com/ilx/video-courses/amazon-bedrock-building-genai-applications/course-overview
 Building Generative AI Applications with Amazon Bedrock
 
+https://app.pluralsight.com/ilx/video-courses/integrating-ai-agents-enterprise-systems/course-overview
+Integrating AI Agents in Enterprise Systems
+
+https://app.pluralsight.com/ilx/video-courses/clips/fa5162bd-d37c-4b5d-a083-fa7c11123c58
+Building Generative AI Applications with Amazon Bedrock
+
+Nov 27 
+
+https://www.youtube.com/watch?v=FAgmR9VV0GQ
+ Amazon Bedrock for Beginners – From First Prompt to AI Agent (Full Tutorial) 
